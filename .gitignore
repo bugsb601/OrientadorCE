@@ -1,0 +1,20 @@
+# Archivos compilados o temporales
+*.qlf
+*.po
+*.tmp
+*.log
+
+# Archivos de respaldo
+*~
+*.bak
+
+# Configuración del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de editor
+.vscode/
+.idea/
+
+# Archivos de SWI-Prolog
+.plt
