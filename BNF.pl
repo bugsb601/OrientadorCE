@@ -237,4 +237,4 @@ inicializa --> [pues].
 inicializa --> [bueno].
 inicializa --> [].
 
-/**/
+/*2*/

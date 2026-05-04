@@ -12,4 +12,4 @@ profesion(diseno_publicitario, [creatividad, comunicacion, diseno], [matematicas
 profesion(derecho, [debatir, analisis, justicia], [matematicas, liderazgo]).
 profesion(criminologia, [justicia, investigacion, analisis], [fluidos, personas]).
 profesion(medicina, [ayudar, personas, biologia], [fluidos, estres]).
-/**/
+/*2*/
