@@ -149,3 +149,4 @@ bucle_guiado(TemaEsperado) :-
             bucle_guiado(TemaEsperado)
         )
     ).
+/**/
